@@ -1,0 +1,31 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "20232_fatec_ipi_paoo_mss_lembretes",
+    "dateExported": "2023-09-20T19:16:40.781Z",
+    "version": "1.1",
+    "folders": [
+        {
+            "_id": "05a3d27e-33f3-402f-80c3-801393a44fb9",
+            "name": "lembretes",
+            "containerId": "",
+            "created": "2023-09-20T19:14:45.002Z",
+            "sortNum": 10000
+        }
+    ],
+    "requests": [
+        {
+            "_id": "ca5560f8-1928-4acf-89c3-a60ce250d374",
+            "colId": "da1b4fed-2a7a-43c9-8eed-a45b151c29c6",
+            "containerId": "05a3d27e-33f3-402f-80c3-801393a44fb9",
+            "name": "localhost:4000/lembretes",
+            "url": "localhost:4000/lembretes",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-09-20T19:15:25.178Z",
+            "modified": "2023-09-20T19:15:25.178Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
